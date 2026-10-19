@@ -45,7 +45,7 @@ my-academic-portfolio/
 | # | Task / Assignment Title | Course / Module | Term / Year | Date | Status | Link |
 |---|-------------------------|-----------------|-------------|------|--------|------|
 | 01 | HTTP Methods: GET vs. POST Analysis | Web Development | Year 2 | 2026-10-19 | Completed | [View Task](tasks/web-development/get-vs-post.md) |
-| 02 | HTML Implementation Task | Web Development | Year 2 | 2026-10-19 | In Progress | *Pending upload* |
+| 02 | First Website & Nested Lists (HTML) | Web Development | Year 2 | 2026-10-19 | Completed | [View Task](tasks/web-development/first-website/) |
 
 ---
 
