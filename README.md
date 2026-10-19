@@ -3,6 +3,7 @@
 Welcome to the academic portfolio and coursework repository of **Ahmad Mohamed Said Mansour**.
 
 > **Program:** Software Engineering (2nd Year CS Student)  
+> **Section:** Section 1  
 > **Student:** Ahmad Mohamed Said Mansour  
 > **GitHub:** [@mzkilr123-a11y](https://github.com/mzkilr123-a11y)  
 > **Email:** mzkilr123@gmail.com  
@@ -51,5 +52,6 @@ my-academic-portfolio/
 
 - **Full Name:** Ahmad Mohamed Said Mansour
 - **Faculty / Major:** Computer Science — Software Engineering (Year 2)
+- **Section:** Section 1
 - **GitHub Profile:** [github.com/mzkilr123-a11y](https://github.com/mzkilr123-a11y)
 - **Contact:** mzkilr123@gmail.com
