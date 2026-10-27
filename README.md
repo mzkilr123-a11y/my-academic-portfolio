@@ -52,7 +52,8 @@ my-academic-portfolio/
 ├── tasks/                 # Coursework assignments, lab exercises, and weekly tasks
 │   └── web-development/   # Web development tasks & assignments
 │       ├── get-vs-post.md # HTTP GET vs POST comparative analysis
-│       └── first-website/ # HTML formatting & nested lists implementation
+│       ├── first-website/ # HTML formatting & nested lists implementation
+│       └── assignment-02/ # Multi-page links, anchors, tables & media
 │
 ├── projects/              # Comprehensive term and course projects
 │   └── README.md
@@ -68,6 +69,7 @@ my-academic-portfolio/
 |---|-------------------------|-----------------|-------------|------|--------|------|
 | 01 | HTTP Methods: GET vs. POST Analysis | Web Development | Year 2 | 2026-10-19 | Completed | [View Task](tasks/web-development/get-vs-post.md) |
 | 02 | First Website & Nested Lists (HTML) | Web Development | Year 2 | 2026-10-19 | Completed | [View Task](tasks/web-development/first-website/) |
+| 03 | Links, Anchors, Tables & Images (Assignment 2) | Web Development | Year 2 | 2026-10-27 | Completed | [View Task](tasks/web-development/assignment-02/) |
 
 ---
 
